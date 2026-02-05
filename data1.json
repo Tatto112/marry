@@ -12,6 +12,7 @@
       "category": "Lessons",
       "label": "Lesson2",
       "total": 6
+	  , "premium" : "true"
     },
 	{
       "category": "Lessons",
@@ -27,6 +28,8 @@
       "category": "Lessons",
       "label": "Lesson5",
       "total": 10
+	  , "premium" : "true"
+	  
     },
 		{
       "category": "Lessons",
@@ -37,6 +40,7 @@
       "category": "Lessons",
       "label": "Lesson7",
       "total": 10
+	  , "premium" : "true"
     },
 		{
       "category": "Lessons",
@@ -52,6 +56,7 @@
       "category": "Lessons",
       "label": "Lesson10",
       "total": 10
+	  , "premium" : "true"
     },
 		{
       "category": "Lessons",
