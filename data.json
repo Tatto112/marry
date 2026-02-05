@@ -1,0 +1,529 @@
+{
+  "dataVersion": 18,
+  "images": [
+  
+    {
+      "category": "Trendy",
+      "label": "Black Clover",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Demon Slayer",
+      "total": 30
+    },
+    {
+      "category": "Trendy",
+      "label": "Bleach",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Death Note",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Dragon Ball",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Hell’s Paradise",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Hunter x Hunter",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Naruto",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "One Piece",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Pokemon",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Solo Leveling",
+      "total": 5
+    },
+	
+	
+	
+
+	{
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 13
+    },
+	{
+      "category": "Anime",
+      "label": "Demon Slayer",
+      "total": 55
+    },
+	{
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 20
+    },
+	{
+      "category": "Anime",
+      "label": "D Grey Man",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 57
+    },	{
+      "category": "Anime",
+      "label": "One Piece",
+      "total": 22
+    },
+	{
+      "category": "Anime",
+      "label": "Pokemon",
+      "total": 23
+    },
+	{
+      "category": "Anime",
+      "label": "Attack on Titan",
+      "total": 29
+    },
+	{
+      "category": "Anime",
+      "label": "Arcane",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Akame Ga Kill",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Bleach",
+      "total": 27
+    },
+	{
+      "category": "Anime",
+      "label": "Beyblade",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Baka to Test",
+      "total": 3
+    },
+	{
+      "category": "Anime",
+      "label": "Blue Exorcist",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Castlevania",
+      "total": 6
+    },
+	{
+      "category": "Anime",
+      "label": "Chainsaw Man",
+      "total": 24
+    },
+	{
+      "category": "Anime",
+      "label": "Failed Knight",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Rurouni Kenshin",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Fullmetal Alchemist",
+      "total": 15
+    },
+	{
+      "category": "Anime",
+      "label": "My Hero Academia",
+      "total": 50
+    },
+	{
+      "category": "Anime",
+      "label": "Hunter x Hunter",
+      "total": 21
+    },
+		{
+      "category": "Anime",
+      "label": "SPY x FAMILY",
+      "total": 11
+    },
+		{
+      "category": "Anime",
+      "label": "Hells Paradise",
+      "total": 3
+    },
+	{
+      "category": "Anime",
+      "label": "Jujutsu Kaisen",
+      "total": 27
+    },
+	{
+      "category": "Anime",
+      "label": "Solo Leveling",
+      "total": 11
+    },
+	{
+      "category": "Anime",
+      "label": "Fairy Tail",
+      "total": 30
+    },
+	{
+      "category": "Anime",
+      "label": "Goblin Slayer",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Evangelion",
+      "total": 7
+    },
+	{
+      "category": "Anime",
+      "label": "Dungeon Meshi",
+      "total": 11
+    },
+	{
+      "category": "Anime",
+      "label": "Death Note",
+      "total": 8
+    },
+	{
+      "category": "Anime",
+      "label": "Chivalry",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Dr. Stone",
+      "total": 6
+    },
+	{
+      "category": "Anime",
+      "label": "Cowboy Bebop",
+      "total": 9
+    },
+ { "category": "Anime", "label": "Zom 100", "total": 4 },
+  { "category": "Anime", "label": "Violet Evergarden", "total": 10 },
+  { "category": "Anime", "label": "Trigun", "total": 10 },
+  { "category": "Anime", "label": "Tokyo Ghoul", "total": 24 },
+  { "category": "Anime", "label": "The Seven Deadly Sins", "total": 13 },
+  { "category": "Anime", "label": "The Rising of the Shield Hero", "total": 8 },
+  { "category": "Anime", "label": "Sword Art Online", "total": 19 },
+  { "category": "Anime", "label": "Steins Gate", "total": 12 },
+  { "category": "Anime", "label": "Soul Eater", "total": 14 },
+  { "category": "Anime", "label": "Samurai Champloo", "total": 6 },
+  { "category": "Anime", "label": "Saint Seiya", "total": 8 },
+  { "category": "Anime", "label": "Sailor Moon", "total": 16 },
+  { "category": "Anime", "label": "ReZero", "total": 10 },
+  { "category": "Anime", "label": "Psycho Pass", "total": 10 },
+  { "category": "Anime", "label": "Panty & Stocking with Garterbelt", "total": 4 },
+  { "category": "Anime", "label": "Oshi no Ko", "total": 4 },
+  { "category": "Anime", "label": "One-Punch Man", "total": 19 },
+  { "category": "Anime", "label": "No Game No Life", "total": 7 },
+  { "category": "Anime", "label": "Suit Gundam", "total": 3 },
+  { "category": "Anime", "label": "Kaiju No. 8", "total": 3 },
+  { "category": "Anime", "label": "Inuyasha", "total":10 },
+  { "category": "Anime", "label": "Future Diary", "total":12 },
+  { "category": "Anime", "label": "Frieren", "total": 14 },
+  { "category": "Anime", "label": "Dandadan", "total": 14 },
+  { "category": "Anime", "label": "Cyberpunk", "total": 2 },
+  { "category": "Anime", "label": "Code Geass", "total": 19 },
+  { "category": "Anime", "label": "Chillin", "total": 2 },
+  { "category": "Anime", "label": "Bobobo", "total": 5 },
+  { "category": "Anime", "label": "Blue Box", "total": 2 },
+	
+	
+	{
+      "category": "Labubu",
+      "label": "Labubu Doll",
+      "total": 29
+    },
+	
+	{
+      "category": "Animal",
+      "label": "Wild Animal",
+      "total": 27
+    },
+    {
+      "category": "Animal",
+      "label": "Lion",
+      "total": 11
+    },
+	{
+      "category": "Animal",
+      "label": "Cat",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Dinosaur",
+      "total": 10
+    },
+    {
+      "category": "Animal",
+      "label": "Dog",
+      "total": 12
+    },
+	{
+      "category": "Animal",
+      "label": "Cute Animal",
+      "total": 34
+    },
+    {
+      "category": "Animal",
+      "label": "Dragon",
+      "total": 12
+    },
+	{
+      "category": "Animal",
+      "label": "Real Dogs",
+      "total": 11
+    },
+    {
+      "category": "Animal",
+      "label": "Elephant",
+      "total": 10
+    },
+	   {
+      "category": "Animal",
+      "label": "Real Cat",
+      "total": 21
+    },
+    {
+      "category": "Animal",
+      "label": "Fish",
+      "total": 21
+    },
+    {
+      "category": "Animal",
+      "label": "Hippo",
+      "total": 11
+    },
+    {
+      "category": "Animal",
+      "label": "Horse",
+      "total": 19
+    },
+	    {
+      "category": "Animal",
+      "label": "Extinct Animals",
+      "total": 21
+    },
+	    {
+      "category": "Animal",
+      "label": "Rodents",
+      "total": 10
+    },
+	    {
+      "category": "Animal",
+      "label": "Rabbit",
+      "total": 12
+    },
+	    {
+      "category": "Animal",
+      "label": "Godzilla",
+      "total": 11
+    },
+	    {
+      "category": "Animal",
+      "label": "Fox",
+      "total": 11
+    },
+	    {
+      "category": "Animal",
+      "label": "Butterfly",
+      "total": 18
+    },
+	    {
+      "category": "Animal",
+      "label": "Bear",
+      "total": 14
+    },
+
+	
+	
+	
+	
+    {
+      "category": "Birds",
+      "label": "Sparrows",
+      "total": 10
+    },
+	
+	
+	
+	
+    {
+      "category": "Flowers",
+      "label": "Sun Flower",
+      "total": 15
+    },
+	{
+      "category": "Flowers",
+      "label": "Rose",
+      "total": 10
+    },
+	{
+      "category": "Flowers",
+      "label": "Tulips",
+      "total": 9
+    },
+	{
+      "category": "Flowers",
+      "label": "Daisies",
+      "total": 9
+    },
+	
+	
+	
+	
+	
+    {
+      "category": "Fruits",
+      "label": "Apple",
+      "total": 8
+    },
+    {
+      "category": "Fruits",
+      "label": "Banana",
+      "total": 8
+    },
+    {
+      "category": "Fruits",
+      "label": "Mango",
+      "total": 5
+    },
+    {
+      "category": "Fruits",
+      "label": "Pineapple",
+      "total": 1
+    },
+    {
+      "category": "Fruits",
+      "label": "Pomegranate",
+      "total": 1
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 7
+    },
+    {
+      "category": "Fruits",
+      "label": "Watermelon",
+      "total": 1
+    },
+	
+	
+	
+	
+    {
+      "category": "Vehicles",
+      "label": "Super Cars",
+      "total": 64
+    },
+   {
+      "category": "Vehicles",
+      "label": "Train",
+      "total": 12
+    },
+    {
+      "category": "Vehicles",
+      "label": "Airplane",
+      "total": 8
+    },
+    {
+      "category": "Vehicles",
+      "label": "Bike",
+      "total": 10
+    },
+    {
+      "category": "Vehicles",
+      "label": "Car",
+      "total": 11
+    },
+    {
+      "category": "Vehicles",
+      "label": "Cycle",
+      "total": 10
+    },
+    {
+      "category": "Vehicles",
+      "label": "Ship",
+      "total": 10
+    },
+  
+	
+	
+    {
+      "category": "For Kids",
+      "label": "Alphabet",
+      "total": 26
+    },
+
+
+
+
+
+    {
+      "category": "Anatomy",
+      "label": "Brain",
+      "total": 7
+    },
+    {
+      "category": "Anatomy",
+      "label": "Ear",
+      "total": 6
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Eyes",
+      "total": 6
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Heart",
+      "total": 7
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Kidney",
+      "total": 5
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Lips",
+      "total": 5
+    },
+	{
+      "category": "Anatomy",
+      "label": "Stomach",
+      "total": 5
+    }
+	
+	
+  ]
+}
