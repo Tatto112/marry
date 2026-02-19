@@ -404,32 +404,32 @@
     {
       "category": "Animal",
       "label": "Lion",
-      "total": 11
+      "total": 13
     },
 	{
       "category": "Animal",
       "label": "Cat",
-      "total": 12
+      "total": 15
     },
     {
       "category": "Animal",
       "label": "Dinosaur",
-      "total": 10
+      "total": 13
     },
     {
       "category": "Animal",
       "label": "Dog",
-      "total": 12
+      "total": 18
     },
 	{
       "category": "Animal",
       "label": "Cute Animal",
-      "total": 34
+      "total": 40
     },
     {
       "category": "Animal",
       "label": "Dragon",
-      "total": 12
+      "total": 17
     },
 	{
       "category": "Animal",
@@ -439,22 +439,22 @@
     {
       "category": "Animal",
       "label": "Elephant",
-      "total": 10
+      "total": 13
     },
 	   {
       "category": "Animal",
       "label": "Real Cat",
-      "total": 21
+      "total": 16
     },
     {
       "category": "Animal",
       "label": "Fish",
-      "total": 21
+      "total": 25
     },
     {
       "category": "Animal",
       "label": "Hippo",
-      "total": 11
+      "total": 14
     },
     {
       "category": "Animal",
@@ -464,7 +464,7 @@
 	    {
       "category": "Animal",
       "label": "Extinct Animals",
-      "total": 21
+      "total": 26
     },
 	    {
       "category": "Animal",
@@ -474,27 +474,27 @@
 	    {
       "category": "Animal",
       "label": "Rabbit",
-      "total": 12
+      "total": 14
     },
 	    {
       "category": "Animal",
       "label": "Godzilla",
-      "total": 11
+      "total": 14
     },
 	    {
       "category": "Animal",
       "label": "Fox",
-      "total": 11
+      "total": 15
     },
 	    {
       "category": "Animal",
       "label": "Butterfly",
-      "total": 18
+      "total": 22
     },
 	    {
       "category": "Animal",
       "label": "Bear",
-      "total": 14
+      "total": 17
     },
 
 	
@@ -625,37 +625,42 @@
     {
       "category": "Anatomy",
       "label": "Brain",
-      "total": 7
+      "total": 10
     },
     {
       "category": "Anatomy",
       "label": "Ear",
-      "total": 6
+      "total": 8
     },
 	    {
       "category": "Anatomy",
       "label": "Eyes",
-      "total": 6
+      "total": 9
     },
 	    {
       "category": "Anatomy",
       "label": "Heart",
-      "total": 7
+      "total": 10
     },
 	    {
       "category": "Anatomy",
       "label": "Kidney",
-      "total": 5
+      "total": 6
     },
 	    {
       "category": "Anatomy",
       "label": "Lips",
-      "total": 5
+      "total": 8
+    },
+	{
+      "category": "Anatomy",
+      "label": "Nose",
+      "total": 8
     },
 	{
       "category": "Anatomy",
       "label": "Stomach",
-      "total": 5
+      "total": 7
     },
 	
 	
