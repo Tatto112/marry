@@ -1,5 +1,5 @@
 {
-  "dataVersion": 28,
+  "dataVersion": 29,
   "images": [
   
   
@@ -130,12 +130,14 @@
 	
 	
 	
+	{ "category": "Anime Banner", "label": "Dragon Ball","total": 1},
+	{ "category": "Anime Banner","label": "One Piece","total": 1},
+	{ "category": "Anime Banner","label": "Solo Leveling","total": 1},
+	{ "category": "Anime Banner","label": "Death Note","total": 1},
 	{ "category": "Anime Banner","label": "Black Clover","total": 1},
 	{ "category": "Anime Banner","label": "Demon Slayer","total": 1},
-	{ "category": "Anime Banner", "label": "Dragon Ball","total": 1},
 	{ "category": "Anime Banner","label": "D Grey Man","total": 1},
 	{ "category": "Anime Banner","label": "Naruto","total": 1},	
-	{ "category": "Anime Banner","label": "One Piece","total": 1},
 	{ "category": "Anime Banner","label": "Pokemon","total": 1},
 	{ "category": "Anime Banner","label": "Attack on Titan","total": 1},
 	{ "category": "Anime Banner","label": "Arcane","total": 1},
@@ -154,12 +156,10 @@
 	{ "category": "Anime Banner","label": "SPY x FAMILY","total": 1},
 	{ "category": "Anime Banner","label": "Hells Paradise","total": 1},
 	{ "category": "Anime Banner","label": "Jujutsu Kaisen","total": 1},
-	{ "category": "Anime Banner","label": "Solo Leveling","total": 1},
 	{ "category": "Anime Banner", "label": "Fairy Tail","total": 1},
 	{ "category": "Anime Banner","label": "Goblin Slayer","total": 1},
 	{ "category": "Anime Banner","label": "Evangelion","total": 1},
 	{ "category": "Anime Banner","label": "Dungeon Meshi","total": 1},
-	{ "category": "Anime Banner","label": "Death Note","total": 1},
 	{ "category": "Anime Banner","label": "Chivalry","total": 1},
 	{ "category": "Anime Banner","label": "Dr. Stone","total": 1},
     { "category": "Anime Banner", "label": "Cowboy Bebop","total": 1},
@@ -213,7 +213,7 @@
 	{
       "category": "Anime",
       "label": "D Grey Man",
-      "total": 10
+      "total": 15
     },
 	{
       "category": "Anime",
@@ -232,17 +232,17 @@
 	{
       "category": "Anime",
       "label": "Attack on Titan",
-      "total": 29
+      "total": 33
     },
 	{
       "category": "Anime",
       "label": "Arcane",
-      "total": 12
+      "total": 17
     },
 	{
       "category": "Anime",
       "label": "Akame Ga Kill",
-      "total": 10
+      "total": 14
     },
 	{
       "category": "Anime",
@@ -252,32 +252,32 @@
 	{
       "category": "Anime",
       "label": "Beyblade",
-      "total": 10
+      "total": 14
     },
 	{
       "category": "Anime",
       "label": "Baka to Test",
-      "total": 3
+      "total": 7
     },
 	{
       "category": "Anime",
       "label": "Blue Exorcist",
-      "total": 10
+      "total": 14
     },
 	{
       "category": "Anime",
       "label": "Castlevania",
-      "total": 6
+      "total": 10
     },
 	{
       "category": "Anime",
       "label": "Chainsaw Man",
-      "total": 24
+      "total": 30
     },
 	{
       "category": "Anime",
       "label": "Failed Knight",
-      "total": 12
+      "total": 16
     },
 	{
       "category": "Anime",
@@ -287,7 +287,7 @@
 	{
       "category": "Anime",
       "label": "Fullmetal Alchemist",
-      "total": 15
+      "total": 20
     },
 	{
       "category": "Anime",
@@ -322,7 +322,7 @@
 	{
       "category": "Anime",
       "label": "Fairy Tail",
-      "total": 30
+      "total": 36
     },
 	{
       "category": "Anime",
@@ -332,22 +332,22 @@
 	{
       "category": "Anime",
       "label": "Evangelion",
-      "total": 7
-    },
-	{
-      "category": "Anime",
-      "label": "Dungeon Meshi",
       "total": 11
     },
 	{
       "category": "Anime",
+      "label": "Dungeon Meshi",
+      "total": 17
+    },
+	{
+      "category": "Anime",
       "label": "Death Note",
-      "total": 8
+      "total": 12
     },
 	{
       "category": "Anime",
       "label": "Chivalry",
-      "total": 12
+      "total": 15
     },
 	{
       "category": "Anime",
@@ -357,7 +357,7 @@
 	{
       "category": "Anime",
       "label": "Cowboy Bebop",
-      "total": 9
+      "total": 14
     },
  { "category": "Anime", "label": "Zom 100", "total": 4 },
   { "category": "Anime", "label": "Violet Evergarden", "total": 10 },
@@ -504,7 +504,7 @@
     {
       "category": "Birds",
       "label": "Sparrows",
-      "total": 10
+      "total": 15
     },
 	
 	
@@ -513,22 +513,22 @@
     {
       "category": "Flowers",
       "label": "Sun Flower",
-      "total": 15
+      "total": 17
     },
 	{
       "category": "Flowers",
       "label": "Rose",
-      "total": 10
+      "total": 15
     },
 	{
       "category": "Flowers",
       "label": "Tulips",
-      "total": 9
+      "total": 12
     },
 	{
       "category": "Flowers",
       "label": "Daisies",
-      "total": 9
+      "total": 12
     },
 	
 	
@@ -538,37 +538,37 @@
     {
       "category": "Fruits",
       "label": "Apple",
-      "total": 8
+      "total": 11
     },
     {
       "category": "Fruits",
       "label": "Banana",
-      "total": 8
+      "total": 10
     },
     {
       "category": "Fruits",
       "label": "Mango",
-      "total": 5
-    },
-    {
-      "category": "Fruits",
-      "label": "Pineapple",
-      "total": 1
-    },
-    {
-      "category": "Fruits",
-      "label": "Pomegranate",
-      "total": 1
-    },
-    {
-      "category": "Fruits",
-      "label": "Strawberry",
       "total": 7
     },
     {
       "category": "Fruits",
+      "label": "Pineapple",
+      "total": 5
+    },
+    {
+      "category": "Fruits",
+      "label": "Pomegranate",
+      "total": 4
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 9
+    },
+    {
+      "category": "Fruits",
       "label": "Watermelon",
-      "total": 1
+      "total": 6
     },
 	
 	
@@ -577,37 +577,37 @@
     {
       "category": "Vehicles",
       "label": "Super Cars",
-      "total": 64
+      "total": 68
     },
    {
       "category": "Vehicles",
       "label": "Train",
-      "total": 12
+      "total": 16
     },
     {
       "category": "Vehicles",
       "label": "Airplane",
-      "total": 8
+      "total": 12
     },
     {
       "category": "Vehicles",
       "label": "Bike",
-      "total": 10
+      "total": 12
     },
     {
       "category": "Vehicles",
       "label": "Car",
-      "total": 11
+      "total": 13
     },
     {
       "category": "Vehicles",
       "label": "Cycle",
-      "total": 10
+      "total": 13
     },
     {
       "category": "Vehicles",
       "label": "Ship",
-      "total": 10
+      "total": 13
     },
   
 	
