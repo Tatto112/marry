@@ -1,5 +1,5 @@
 {
-  "dataVersion": 33,
+  "dataVersion": 34,
   "images": [
   
   
@@ -679,7 +679,7 @@
 	
 	
 	{
-      "category": "Architectur",
+      "category": "Architecture",
       "label": "Random",
       "total": 9
     },
