@@ -663,6 +663,11 @@
       "total": 7
     },
 	
+	{
+      "category": "Aesthetic",
+      "label": "Random",
+      "total": 8
+    },
 	
 	{
       "category": "Food",
@@ -681,7 +686,7 @@
 	{
       "category": "Architecture",
       "label": "Random",
-      "total": 9
+      "total": 12
     },
 	
 	
