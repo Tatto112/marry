@@ -400,6 +400,16 @@
 	
 	{
       "category": "Animal",
+      "label": "Cat",
+      "total": 15
+    },
+	{
+      "category": "Animal",
+      "label": "Dog",
+      "total": 18
+    },
+	{
+      "category": "Animal",
       "label": "Wild Animal",
       "total": 27
     },
@@ -408,21 +418,13 @@
       "label": "Lion",
       "total": 13
     },
-	{
-      "category": "Animal",
-      "label": "Cat",
-      "total": 15
-    },
+
     {
       "category": "Animal",
       "label": "Dinosaur",
       "total": 13
     },
-    {
-      "category": "Animal",
-      "label": "Dog",
-      "total": 18
-    },
+
 	{
       "category": "Animal",
       "label": "Cute Animal",
