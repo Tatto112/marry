@@ -193,12 +193,10 @@
     { "category": "Anime Banner", "label": "Bobobo", "total": 1 },
     { "category": "Anime Banner", "label": "Blue Box", "total": 1 },
 	
-	
-
 	{
       "category": "Anime",
-      "label": "Black Clover",
-      "total": 18
+      "label": "One Piece",
+      "total": 31
     },
 	{
       "category": "Anime",
@@ -219,11 +217,7 @@
       "category": "Anime",
       "label": "Naruto",
       "total": 57
-    },	{
-      "category": "Anime",
-      "label": "One Piece",
-      "total": 26
-    },
+    },	
 	{
       "category": "Anime",
       "label": "Pokemon",
@@ -243,6 +237,11 @@
       "category": "Anime",
       "label": "Akame Ga Kill",
       "total": 14
+    },
+		{
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 18
     },
 	{
       "category": "Anime",
