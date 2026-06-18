@@ -193,15 +193,16 @@
     { "category": "Anime Banner", "label": "Bobobo", "total": 1 },
     { "category": "Anime Banner", "label": "Blue Box", "total": 1 },
 	
-		{
-      "category": "Anime",
-      "label": "Air Blinder",
-      "total": 10
-    },
+
 	{
       "category": "Anime",
       "label": "One Piece",
       "total": 31
+    },
+	{
+      "category": "Anime",
+      "label": "Air Binder",
+      "total": 10
     },
 	{
       "category": "Anime",
