@@ -1,5 +1,5 @@
 {
-  "dataVersion": 18,
+  "dataVersion": 36,
   "images": [
   
   
@@ -12,6 +12,7 @@
       "category": "Lessons",
       "label": "Lesson2",
       "total": 6
+	  , "premium" : "true"
     },
 	{
       "category": "Lessons",
@@ -27,6 +28,8 @@
       "category": "Lessons",
       "label": "Lesson5",
       "total": 10
+	  , "premium" : "true"
+	  
     },
 		{
       "category": "Lessons",
@@ -37,6 +40,7 @@
       "category": "Lessons",
       "label": "Lesson7",
       "total": 10
+	  , "premium" : "true"
     },
 		{
       "category": "Lessons",
@@ -52,6 +56,7 @@
       "category": "Lessons",
       "label": "Lesson10",
       "total": 10
+	  , "premium" : "true"
     },
 		{
       "category": "Lessons",
@@ -122,92 +127,168 @@
       "total": 5
     },
 	
+	{
+      "category": "Coloring",
+      "label": "Anime",
+      "total": 60
+    },
 	
+	
+	
+	
+	{ "category": "Anime Banner", "label": "Dragon Ball","total": 1},
+	{ "category": "Anime Banner","label": "One Piece","total": 1},
+	{ "category": "Anime Banner","label": "Solo Leveling","total": 1},
+	{ "category": "Anime Banner","label": "Death Note","total": 1},
+	{ "category": "Anime Banner","label": "Black Clover","total": 1},
+	{ "category": "Anime Banner","label": "Demon Slayer","total": 1},
+	{ "category": "Anime Banner","label": "D Grey Man","total": 1},
+	{ "category": "Anime Banner","label": "Naruto","total": 1},	
+	{ "category": "Anime Banner","label": "Pokemon","total": 1},
+	{ "category": "Anime Banner","label": "Attack on Titan","total": 1},
+	{ "category": "Anime Banner","label": "Arcane","total": 1},
+	{ "category": "Anime Banner","label": "Akame Ga Kill","total": 1},
+	{ "category": "Anime Banner","label": "Bleach","total": 1},
+	{ "category": "Anime Banner","label": "Beyblade","total": 1},
+	{ "category": "Anime Banner","label": "Baka to Test","total": 1},
+	{ "category": "Anime Banner","label": "Blue Exorcist","total": 1},
+	{ "category": "Anime Banner","label": "Castlevania","total": 1},
+	{ "category": "Anime Banner","label": "Chainsaw Man","total": 1},
+	{ "category": "Anime Banner","label": "Failed Knight","total": 1},
+	{ "category": "Anime Banner","label": "Rurouni Kenshin","total": 1},
+	{ "category": "Anime Banner","label": "Fullmetal Alchemist","total": 1},
+	{ "category": "Anime Banner","label": "My Hero Academia","total": 1},
+	{ "category": "Anime Banner","label": "Hunter x Hunter","total": 1},
+	{ "category": "Anime Banner","label": "SPY x FAMILY","total": 1},
+	{ "category": "Anime Banner","label": "Hells Paradise","total": 1},
+	{ "category": "Anime Banner","label": "Jujutsu Kaisen","total": 1},
+	{ "category": "Anime Banner", "label": "Fairy Tail","total": 1},
+	{ "category": "Anime Banner","label": "Goblin Slayer","total": 1},
+	{ "category": "Anime Banner","label": "Evangelion","total": 1},
+	{ "category": "Anime Banner","label": "Dungeon Meshi","total": 1},
+	{ "category": "Anime Banner","label": "Chivalry","total": 1},
+	{ "category": "Anime Banner","label": "Dr. Stone","total": 1},
+    { "category": "Anime Banner", "label": "Cowboy Bebop","total": 1},
+    { "category": "Anime Banner", "label": "Zom 100", "total": 1 },
+    { "category": "Anime Banner", "label": "Violet Evergarden", "total": 1 },
+    { "category": "Anime Banner", "label": "Trigun", "total": 1 },
+    { "category": "Anime Banner", "label": "Tokyo Ghoul", "total": 1 },
+    { "category": "Anime Banner", "label": "The Seven Deadly Sins", "total": 1 },
+    { "category": "Anime Banner", "label": "The Rising of the Shield Hero", "total": 1 },
+    { "category": "Anime Banner", "label": "Sword Art Online", "total": 1 },
+    { "category": "Anime Banner", "label": "Steins Gate", "total": 1 },
+    { "category": "Anime Banner", "label": "Soul Eater", "total": 1 },
+    { "category": "Anime Banner", "label": "Samurai Champloo", "total": 1 },
+    { "category": "Anime Banner", "label": "Saint Seiya", "total": 1 },
+    { "category": "Anime Banner", "label": "Sailor Moon", "total": 1 },
+    { "category": "Anime Banner", "label": "ReZero", "total": 1 },
+    { "category": "Anime Banner", "label": "Psycho Pass", "total": 1 },
+    { "category": "Anime Banner", "label": "Panty & Stocking with Garterbelt", "total": 1 },
+    { "category": "Anime Banner", "label": "Oshi no Ko", "total": 1 },
+    { "category": "Anime Banner", "label": "One-Punch Man", "total": 1 },
+    { "category": "Anime Banner", "label": "No Game No Life", "total": 1 },
+    { "category": "Anime Banner", "label": "Suit Gundam", "total": 1 },
+    { "category": "Anime Banner", "label": "Kaiju No. 8", "total": 1 },
+    { "category": "Anime Banner", "label": "Inuyasha", "total":1 },
+    { "category": "Anime Banner", "label": "Future Diary", "total":1 },
+    { "category": "Anime Banner", "label": "Frieren", "total": 1 },
+    { "category": "Anime Banner", "label": "Dandadan", "total": 1 },
+    { "category": "Anime Banner", "label": "Cyberpunk", "total": 1 },
+    { "category": "Anime Banner", "label": "Code Geass", "total": 1 },
+    { "category": "Anime Banner", "label": "Chillin", "total": 1 },
+    { "category": "Anime Banner", "label": "Bobobo", "total": 1 },
+    { "category": "Anime Banner", "label": "Blue Box", "total": 1 },
 	
 
 	{
       "category": "Anime",
-      "label": "Black Clover",
-      "total": 13
+      "label": "One Piece",
+      "total": 31
+    },
+	{
+      "category": "Anime",
+      "label": "Air Binder",
+      "total": 10
     },
 	{
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 55
+      "total": 57
     },
 	{
       "category": "Anime",
       "label": "Dragon Ball",
-      "total": 20
+      "total": 24
     },
 	{
       "category": "Anime",
       "label": "D Grey Man",
-      "total": 10
+      "total": 15
     },
 	{
       "category": "Anime",
       "label": "Naruto",
       "total": 57
-    },	{
-      "category": "Anime",
-      "label": "One Piece",
-      "total": 22
-    },
+    },	
 	{
       "category": "Anime",
       "label": "Pokemon",
-      "total": 23
+      "total": 28
     },
 	{
       "category": "Anime",
       "label": "Attack on Titan",
-      "total": 29
+      "total": 33
     },
 	{
       "category": "Anime",
       "label": "Arcane",
-      "total": 12
+      "total": 17
     },
 	{
       "category": "Anime",
       "label": "Akame Ga Kill",
-      "total": 10
+      "total": 14
+    },
+		{
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 18
     },
 	{
       "category": "Anime",
       "label": "Bleach",
-      "total": 27
+      "total": 29
     },
 	{
       "category": "Anime",
       "label": "Beyblade",
-      "total": 10
+      "total": 14
     },
 	{
       "category": "Anime",
       "label": "Baka to Test",
-      "total": 3
+      "total": 7
     },
 	{
       "category": "Anime",
       "label": "Blue Exorcist",
-      "total": 10
+      "total": 14
     },
 	{
       "category": "Anime",
       "label": "Castlevania",
-      "total": 6
+      "total": 10
     },
 	{
       "category": "Anime",
       "label": "Chainsaw Man",
-      "total": 24
+      "total": 30
     },
 	{
       "category": "Anime",
       "label": "Failed Knight",
-      "total": 12
+      "total": 16
     },
 	{
       "category": "Anime",
@@ -217,7 +298,7 @@
 	{
       "category": "Anime",
       "label": "Fullmetal Alchemist",
-      "total": 15
+      "total": 20
     },
 	{
       "category": "Anime",
@@ -252,7 +333,7 @@
 	{
       "category": "Anime",
       "label": "Fairy Tail",
-      "total": 30
+      "total": 36
     },
 	{
       "category": "Anime",
@@ -262,32 +343,32 @@
 	{
       "category": "Anime",
       "label": "Evangelion",
-      "total": 7
-    },
-	{
-      "category": "Anime",
-      "label": "Dungeon Meshi",
       "total": 11
     },
 	{
       "category": "Anime",
-      "label": "Death Note",
-      "total": 8
+      "label": "Dungeon Meshi",
+      "total": 17
     },
 	{
       "category": "Anime",
-      "label": "Chivalry",
+      "label": "Death Note",
       "total": 12
     },
 	{
       "category": "Anime",
+      "label": "Chivalry",
+      "total": 15
+    },
+	{
+      "category": "Anime",
       "label": "Dr. Stone",
-      "total": 6
+      "total": 7
     },
 	{
       "category": "Anime",
       "label": "Cowboy Bebop",
-      "total": 9
+      "total": 14
     },
  { "category": "Anime", "label": "Zom 100", "total": 4 },
   { "category": "Anime", "label": "Violet Evergarden", "total": 10 },
@@ -319,13 +400,26 @@
   { "category": "Anime", "label": "Bobobo", "total": 5 },
   { "category": "Anime", "label": "Blue Box", "total": 2 },
 	
+		  { "category": "Kpop", "label": "Kpop", "total": 23 },
+	    { "category": "Football", "label": "Football", "total": 23 },
+		  { "category": "Cartoon", "label": "Cartoon", "total": 22 },
 	
 	{
       "category": "Labubu",
       "label": "Labubu Doll",
-      "total": 29
+      "total": 32
     },
 	
+	{
+      "category": "Animal",
+      "label": "Cat",
+      "total": 15
+    },
+	{
+      "category": "Animal",
+      "label": "Dog",
+      "total": 18
+    },
 	{
       "category": "Animal",
       "label": "Wild Animal",
@@ -334,32 +428,24 @@
     {
       "category": "Animal",
       "label": "Lion",
-      "total": 11
+      "total": 13
     },
-	{
-      "category": "Animal",
-      "label": "Cat",
-      "total": 12
-    },
+
     {
       "category": "Animal",
       "label": "Dinosaur",
-      "total": 10
+      "total": 13
     },
-    {
-      "category": "Animal",
-      "label": "Dog",
-      "total": 12
-    },
+
 	{
       "category": "Animal",
       "label": "Cute Animal",
-      "total": 34
+      "total": 40
     },
     {
       "category": "Animal",
       "label": "Dragon",
-      "total": 12
+      "total": 17
     },
 	{
       "category": "Animal",
@@ -369,22 +455,22 @@
     {
       "category": "Animal",
       "label": "Elephant",
-      "total": 10
+      "total": 13
     },
 	   {
       "category": "Animal",
       "label": "Real Cat",
-      "total": 21
+      "total": 16
     },
     {
       "category": "Animal",
       "label": "Fish",
-      "total": 21
+      "total": 25
     },
     {
       "category": "Animal",
       "label": "Hippo",
-      "total": 11
+      "total": 14
     },
     {
       "category": "Animal",
@@ -394,7 +480,7 @@
 	    {
       "category": "Animal",
       "label": "Extinct Animals",
-      "total": 21
+      "total": 26
     },
 	    {
       "category": "Animal",
@@ -404,27 +490,27 @@
 	    {
       "category": "Animal",
       "label": "Rabbit",
-      "total": 12
+      "total": 14
     },
 	    {
       "category": "Animal",
       "label": "Godzilla",
-      "total": 11
+      "total": 14
     },
 	    {
       "category": "Animal",
       "label": "Fox",
-      "total": 11
+      "total": 15
     },
 	    {
       "category": "Animal",
       "label": "Butterfly",
-      "total": 18
+      "total": 22
     },
 	    {
       "category": "Animal",
       "label": "Bear",
-      "total": 14
+      "total": 17
     },
 
 	
@@ -434,7 +520,7 @@
     {
       "category": "Birds",
       "label": "Sparrows",
-      "total": 10
+      "total": 15
     },
 	
 	
@@ -443,22 +529,22 @@
     {
       "category": "Flowers",
       "label": "Sun Flower",
-      "total": 15
+      "total": 17
     },
 	{
       "category": "Flowers",
       "label": "Rose",
-      "total": 10
+      "total": 15
     },
 	{
       "category": "Flowers",
       "label": "Tulips",
-      "total": 9
+      "total": 12
     },
 	{
       "category": "Flowers",
       "label": "Daisies",
-      "total": 9
+      "total": 12
     },
 	
 	
@@ -468,37 +554,37 @@
     {
       "category": "Fruits",
       "label": "Apple",
-      "total": 8
+      "total": 11
     },
     {
       "category": "Fruits",
       "label": "Banana",
-      "total": 8
+      "total": 10
     },
     {
       "category": "Fruits",
       "label": "Mango",
-      "total": 5
-    },
-    {
-      "category": "Fruits",
-      "label": "Pineapple",
-      "total": 1
-    },
-    {
-      "category": "Fruits",
-      "label": "Pomegranate",
-      "total": 1
-    },
-    {
-      "category": "Fruits",
-      "label": "Strawberry",
       "total": 7
     },
     {
       "category": "Fruits",
+      "label": "Pineapple",
+      "total": 5
+    },
+    {
+      "category": "Fruits",
+      "label": "Pomegranate",
+      "total": 4
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 9
+    },
+    {
+      "category": "Fruits",
       "label": "Watermelon",
-      "total": 1
+      "total": 6
     },
 	
 	
@@ -507,37 +593,37 @@
     {
       "category": "Vehicles",
       "label": "Super Cars",
-      "total": 64
+      "total": 68
     },
    {
       "category": "Vehicles",
       "label": "Train",
-      "total": 12
+      "total": 16
     },
     {
       "category": "Vehicles",
       "label": "Airplane",
-      "total": 8
+      "total": 12
     },
     {
       "category": "Vehicles",
       "label": "Bike",
-      "total": 10
+      "total": 12
     },
     {
       "category": "Vehicles",
       "label": "Car",
-      "total": 11
+      "total": 13
     },
     {
       "category": "Vehicles",
       "label": "Cycle",
-      "total": 10
+      "total": 13
     },
     {
       "category": "Vehicles",
       "label": "Ship",
-      "total": 10
+      "total": 13
     },
   
 	
@@ -555,37 +641,75 @@
     {
       "category": "Anatomy",
       "label": "Brain",
-      "total": 7
+      "total": 10
     },
     {
       "category": "Anatomy",
       "label": "Ear",
-      "total": 6
+      "total": 8
     },
 	    {
       "category": "Anatomy",
       "label": "Eyes",
-      "total": 6
+      "total": 9
     },
 	    {
       "category": "Anatomy",
       "label": "Heart",
-      "total": 7
+      "total": 10
     },
 	    {
       "category": "Anatomy",
       "label": "Kidney",
-      "total": 5
+      "total": 6
     },
 	    {
       "category": "Anatomy",
       "label": "Lips",
-      "total": 5
+      "total": 8
+    },
+	{
+      "category": "Anatomy",
+      "label": "Nose",
+      "total": 8
     },
 	{
       "category": "Anatomy",
       "label": "Stomach",
-      "total": 5
+      "total": 7
+    },
+	
+	{
+      "category": "Aesthetic",
+      "label": "Random",
+      "total": 8
+    },
+	
+	{
+      "category": "Food",
+      "label": "Random",
+      "total": 10
+    },
+	
+	
+	{
+      "category": "Nature",
+      "label": "Random",
+      "total": 12
+    },
+	
+	
+	{
+      "category": "Architecture",
+      "label": "Random",
+      "total": 12
+    },
+	
+	
+	{
+      "category": "People",
+      "label": "Random",
+      "total": 10
     }
 	
 	
