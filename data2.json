@@ -1,5 +1,5 @@
 {
-  "dataVersion": 37,
+  "dataVersion": 38,
   "images": [
   
   
@@ -213,7 +213,7 @@
 	{
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 57
+      "total": 61
     },
 	{
       "category": "Anime",
