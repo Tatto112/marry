@@ -1,5 +1,5 @@
 {
-  "dataVersion": 38,
+  "dataVersion": 39,
   "images": [
   
   
@@ -402,6 +402,7 @@
 	
 		  { "category": "Kpop", "label": "Kpop", "total": 23 },
 	    { "category": "Football", "label": "Football", "total": 53 },
+	    { "category": "Personality", "label": "Personality", "total": 22 },
 		  { "category": "Cartoon", "label": "Cartoon", "total": 22 },
 	
 	{
