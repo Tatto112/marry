@@ -1,5 +1,5 @@
 {
-  "dataVersion": 39,
+  "dataVersion": 40,
   "images": [
   
   
@@ -204,6 +204,11 @@
       "category": "Anime",
       "label": "One Piece",
       "total": 31
+    },
+	{
+      "category": "Anime",
+      "label": "Mushoku Tensei",
+      "total": 7
     },
 	{
       "category": "Anime",
