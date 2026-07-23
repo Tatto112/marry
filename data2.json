@@ -429,22 +429,22 @@
 	{
       "category": "Animal",
       "label": "Cat",
-      "total": 15
+      "total": 22
     },
 	{
       "category": "Animal",
       "label": "Dog",
-      "total": 18
+      "total": 23
     },
 	{
       "category": "Animal",
       "label": "Wild Animal",
-      "total": 27
+      "total": 29
     },
     {
       "category": "Animal",
       "label": "Lion",
-      "total": 13
+      "total": 16
     },
 
     {
@@ -466,17 +466,17 @@
 	{
       "category": "Animal",
       "label": "Real Dogs",
-      "total": 11
+      "total": 17
     },
     {
       "category": "Animal",
       "label": "Elephant",
-      "total": 13
+      "total": 19
     },
 	   {
       "category": "Animal",
       "label": "Real Cat",
-      "total": 16
+      "total": 17
     },
     {
       "category": "Animal",
@@ -501,7 +501,7 @@
 	    {
       "category": "Animal",
       "label": "Rodents",
-      "total": 10
+      "total": 17
     },
 	    {
       "category": "Animal",
@@ -526,7 +526,7 @@
 	    {
       "category": "Animal",
       "label": "Bear",
-      "total": 17
+      "total": 20
     },
 
 	
